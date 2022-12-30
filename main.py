@@ -10,7 +10,6 @@ clock = pygame.time.Clock()
 pygame.display.set_caption("Days To New Year")
 running = True
 lang = 'en' # Language Russian 'ru' or English 'en'
-text1, text2 = None, None
 
 
 while running:
